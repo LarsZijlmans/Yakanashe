@@ -75,6 +75,10 @@
     float: left;
   }
 
+  .about .first img{
+    margin-left: 50%;
+  }
+
   .about .first h1{
     color: white;
     margin-left: 180px;
@@ -124,7 +128,7 @@
   .middle {
     top: 50%;
     left: 50%;
-    transform: translate(40%, 5%);
+    transform: translate(50%, 5%);
   }
   .navigation{
     position: absolute;
